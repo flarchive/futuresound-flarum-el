@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of futuresound/flarum-el.** Not for installation: use [Packagist](https://packagist.org/packages/futuresound/flarum-el) or the [upstream repository](https://github.com/futuresound/flarum-el).
 
-**0** versions archived · Latest: [`0.1.26`](https://github.com/flarchive/futuresound-flarum-el/tree/archive/v0.1.26) · License: `MIT` · Flarum: `^1.0`
+**16** versions archived · Latest: [`0.1.26`](https://github.com/flarchive/futuresound-flarum-el/tree/archive/v0.1.26) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.11` | 2021-02-07 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/futuresound-flarum-el/tree/archive/v0.1.11) |
+| `0.1.12` | 2021-02-07 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/futuresound-flarum-el/tree/archive/v0.1.12) |
+| `0.1.13` | 2021-02-21 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/futuresound-flarum-el/tree/archive/v0.1.13) |
+| `0.1.14` | 2021-02-21 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/futuresound-flarum-el/tree/archive/v0.1.14) |
+| `0.1.15` | 2021-02-21 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/futuresound-flarum-el/tree/archive/v0.1.15) |
+| `0.1.16` | 2021-03-22 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/futuresound-flarum-el/tree/archive/v0.1.16) |
+| `0.1.17` | 2021-03-23 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/futuresound-flarum-el/tree/archive/v0.1.17) |
+| `0.1.18` | 2021-04-11 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/futuresound-flarum-el/tree/archive/v0.1.18) |
+| `0.1.19` | 2021-04-11 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/futuresound-flarum-el/tree/archive/v0.1.19) |
+| `0.1.20` | 2021-04-11 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/futuresound-flarum-el/tree/archive/v0.1.20) |
+
+[View all 16 versions](https://github.com/flarchive/futuresound-flarum-el/tags)
 
 Catalog entry: [packages/futuresound-flarum-el.json](https://github.com/flarchive/archive-index/blob/main/packages/futuresound-flarum-el.json)
 
